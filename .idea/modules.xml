@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmain/kmain.iml" filepath="$PROJECT_DIR$/kmain/kmain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kspringboot.iml" filepath="$PROJECT_DIR$/kspringboot.iml" />
+    </modules>
+  </component>
+</project>
