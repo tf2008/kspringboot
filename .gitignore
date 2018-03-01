@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+
+aop/target/
+aop/.idea/
+aop/*.iml
+
+kmain/target/
+kmain/.idea/
+kmain/*.iml
